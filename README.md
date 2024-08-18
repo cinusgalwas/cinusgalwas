@@ -1,6 +1,8 @@
   Hi, I’m Marcin Galwas.  
   I'm currently learning Python.  
-  How to reach me: via LinkedIn. :D  
+  You can find somewhere 2 simple Python projects.
+
+  How to reach me: via LinkedIn. :D 
   www.linkedin.com/in/marcin-galwas-5b91a3215  
 
 
