@@ -2,6 +2,7 @@
   I'm currently learning Python.  
   You can find somewhere 2 simple Python projects.
 
+  I'm looking for my first job with Python or (manual) testing.
   How to reach me: via LinkedIn. :D 
   www.linkedin.com/in/marcin-galwas-5b91a3215  
 
