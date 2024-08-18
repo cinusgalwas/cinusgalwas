@@ -1,0 +1,17 @@
+﻿Find your Today's Exercising Scale
+This program is in polish language. 
+It is fast training program and I don't know music theory in English (I used music theory here).
+This program helps you to choose scale for exercising on your music instrument.
+
+
+To jest program wybierający skalę do ćwiczenia na dany dzień (głównie na puzonie).
+Jest kilka opcji:
+Idziesz na żywioł, (tzn. losujesz skalę do ćwiczenia bez względu na to czy durowa, czy mollowa).
+lub ograniczasz ile chcesz mieć maksymalnie znaków przykluczowych,
+lub ograniczasz tryb dur/moll (do którego chcesz się ograniczyć),
+lub wchodzisz w tryb turbopowtórki, gdzie decydujesz tylko o ilości części składowych 
+do przećwiczenia, a co z której skali ćwiczysz, to już mówi program.
+
+Program powstał typowo dla poćwiczenia programowania:
+ z potrzeby gwarancji losowości ćwiczenia skali na puzonie. (znalazłem problem i spróbowałem go rozwiązać)
+Jeśli nie do końca pamiętasz co ćwiczyć, to możesz też to sobie w programie wyświetlić.
